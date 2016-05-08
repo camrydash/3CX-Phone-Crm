@@ -17,7 +17,7 @@ namespace Crm.Integration.Common
         public Crm3CXPluginService()
         {
             // Specify a base address for the service
-            EndpointAddress endpointAdress = new EndpointAddress("http://gnm-dev.ad.goodnightmedical.com:55000/Crm3CXPhoneCallLogService.svc");
+            EndpointAddress endpointAdress = new EndpointAddress("*/Crm3CXPhoneCallLogService.svc");
             // Create the binding to be used by the service - you will probably want to configure this a bit more
             BasicHttpBinding binding1 = new BasicHttpBinding();
 
