@@ -1,0 +1,13 @@
+c:\users\devuser\documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\bin\Debug\References\MyPhoneCRMIntegration.dll
+c:\users\devuser\documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\bin\Debug\References\Newtonsoft.Json.dll
+c:\users\devuser\documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\bin\Debug\References\System.Net.Http.dll
+c:\users\devuser\documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\bin\Debug\TCX.CRM.dll
+c:\users\devuser\documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\bin\Debug\TCX.CRM.pdb
+c:\users\devuser\documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\bin\Debug\MyPhoneCRMIntegration.dll
+c:\users\devuser\documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\bin\Debug\Newtonsoft.Json.dll
+c:\users\devuser\documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\bin\Debug\System.Net.Http.dll
+c:\users\devuser\documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\bin\Debug\TCX.CRM.Common.dll
+c:\users\devuser\documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\bin\Debug\TCX.CRM.Common.pdb
+c:\users\devuser\documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\obj\Debug\TCX.CRM.csprojResolveAssemblyReference.cache
+c:\users\devuser\documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\obj\Debug\TCX.CRM.dll
+c:\users\devuser\documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\obj\Debug\TCX.CRM.pdb

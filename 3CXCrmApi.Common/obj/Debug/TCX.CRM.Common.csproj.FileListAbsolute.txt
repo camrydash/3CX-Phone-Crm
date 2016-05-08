@@ -1,0 +1,6 @@
+c:\users\devuser\documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Common\bin\Debug\TCX.CRM.Common.dll
+c:\users\devuser\documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Common\bin\Debug\TCX.CRM.Common.pdb
+c:\users\devuser\documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Common\bin\Debug\System.Net.Http.dll
+c:\users\devuser\documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Common\bin\Debug\System.Net.Http.xml
+c:\users\devuser\documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Common\obj\Debug\TCX.CRM.Common.dll
+c:\users\devuser\documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Common\obj\Debug\TCX.CRM.Common.pdb

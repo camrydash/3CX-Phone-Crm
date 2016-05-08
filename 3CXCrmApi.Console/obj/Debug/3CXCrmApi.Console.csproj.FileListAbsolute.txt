@@ -1,0 +1,9 @@
+c:\users\devuser\documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Console\bin\Debug\3CXCrmApi.XConsole.exe.config
+c:\users\devuser\documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Console\bin\Debug\3CXCrmApi.XConsole.exe
+c:\users\devuser\documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Console\bin\Debug\3CXCrmApi.XConsole.pdb
+c:\users\devuser\documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Console\bin\Debug\3CXCrmApi.Common.dll
+c:\users\devuser\documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Console\bin\Debug\Newtonsoft.Json.dll
+c:\users\devuser\documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Console\bin\Debug\3CXCrmApi.Common.pdb
+c:\users\devuser\documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Console\obj\Debug\3CXCrmApi.Console.csprojResolveAssemblyReference.cache
+c:\users\devuser\documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Console\obj\Debug\3CXCrmApi.XConsole.exe
+c:\users\devuser\documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Console\obj\Debug\3CXCrmApi.XConsole.pdb

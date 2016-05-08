@@ -1,0 +1,15 @@
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\Crm.Integration.Installation\bin\Release\3CXCrmPlugin.db
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\Crm.Integration.Installation\bin\Release\Crm.Integration.Installation.exe.config
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\Crm.Integration.Installation\bin\Release\Crm.Integration.Installation.exe
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\Crm.Integration.Installation\bin\Release\Crm.Integration.Installation.pdb
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\Crm.Integration.Installation\bin\Release\Crm.Integration.Common.dll
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\Crm.Integration.Installation\bin\Release\Crm.Integration.dll
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\Crm.Integration.Installation\bin\Release\System.Data.SQLite.dll
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\Crm.Integration.Installation\bin\Release\MyPhoneCRMIntegration.dll
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\Crm.Integration.Installation\bin\Release\Newtonsoft.Json.dll
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\Crm.Integration.Installation\bin\Release\Crm.Integration.Common.pdb
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\Crm.Integration.Installation\bin\Release\Crm.Integration.pdb
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\Crm.Integration.Installation\bin\Release\System.Data.SQLite.xml
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\Crm.Integration.Installation\obj\Release\Crm.Integration.Installation.csprojResolveAssemblyReference.cache
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\Crm.Integration.Installation\obj\Release\Crm.Integration.Installation.exe
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\Crm.Integration.Installation\obj\Release\Crm.Integration.Installation.pdb

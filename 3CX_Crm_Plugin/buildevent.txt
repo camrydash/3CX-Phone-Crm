@@ -1,0 +1,1 @@
+﻿copy "$(TargetDir)" "$(SolutionDir)Crm.Integration.Installation\Data"

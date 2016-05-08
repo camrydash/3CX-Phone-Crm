@@ -1,0 +1,11 @@
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\bin\Release\Crm.Integration.dll.config
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\bin\Release\Crm.Integration.dll
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\bin\Release\Crm.Integration.pdb
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\bin\Release\Crm.Integration.Common.dll
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\bin\Release\MyPhoneCRMIntegration.dll
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\bin\Release\Newtonsoft.Json.dll
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\bin\Release\System.Net.Http.dll
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\bin\Release\Crm.Integration.Common.pdb
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\obj\Release\Crm.Integration.csprojResolveAssemblyReference.cache
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\obj\Release\Crm.Integration.dll
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\obj\Release\Crm.Integration.pdb

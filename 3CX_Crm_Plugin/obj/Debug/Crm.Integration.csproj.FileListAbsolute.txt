@@ -1,0 +1,10 @@
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\bin\Debug\Crm.Integration.dll
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\bin\Debug\Crm.Integration.pdb
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\bin\Debug\Crm.Integration.Common.dll
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\bin\Debug\MyPhoneCRMIntegration.dll
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\bin\Debug\System.Net.Http.dll
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\bin\Debug\Crm.Integration.Common.pdb
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\obj\Debug\Crm.Integration.csprojResolveAssemblyReference.cache
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\obj\Debug\Crm.Integration.dll
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CX_Crm_Plugin\obj\Debug\Crm.Integration.pdb

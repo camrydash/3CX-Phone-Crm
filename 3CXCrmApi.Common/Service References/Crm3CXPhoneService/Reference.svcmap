@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="3b208e1a-9d28-4453-9d1f-88303c9696e3" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://gnm-dev.ad.goodnightmedical.com:55000/Crm3CXPhoneCallLogService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Crm3CXPhoneCallLogService.disco" MetadataType="Disco" ID="c5eaa05d-40fd-49e7-b16d-9fa1da38db65" SourceId="1" SourceUrl="http://gnm-dev.ad.goodnightmedical.com:55000/Crm3CXPhoneCallLogService.svc?disco" />
+    <MetadataFile FileName="Crm3CXPhoneCallLogService.wsdl" MetadataType="Wsdl" ID="1efdc73f-d5aa-450a-91df-d86651b5cff8" SourceId="1" SourceUrl="http://gnm-dev.ad.goodnightmedical.com:55000/Crm3CXPhoneCallLogService.svc?wsdl" />
+    <MetadataFile FileName="Crm3CXPhoneCallLogService.xsd" MetadataType="Schema" ID="9bdc1ca1-3af5-42b5-a9d1-6754bb009853" SourceId="1" SourceUrl="http://gnm-dev.ad.goodnightmedical.com:55000/Crm3CXPhoneCallLogService.svc?xsd=xsd0" />
+    <MetadataFile FileName="Crm3CXPhoneCallLogService1.xsd" MetadataType="Schema" ID="8387f081-1267-4056-8b1b-3d41749fb978" SourceId="1" SourceUrl="http://gnm-dev.ad.goodnightmedical.com:55000/Crm3CXPhoneCallLogService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,7 @@
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Common\bin\Release\Crm.Integration.Common.dll.config
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Common\bin\Release\Crm.Integration.Common.dll
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Common\bin\Release\Crm.Integration.Common.pdb
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Common\bin\Release\System.Net.Http.dll
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Common\bin\Release\System.Net.Http.xml
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Common\obj\Release\Crm.Integration.Common.dll
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Common\obj\Release\Crm.Integration.Common.pdb

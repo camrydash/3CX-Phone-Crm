@@ -1,0 +1,12 @@
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Console\bin\Release\3CXCrmPlugin.db
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Console\bin\Release\Crm.Integration.XConsole.exe.config
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Console\bin\Release\Crm.Integration.XConsole.exe
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Console\bin\Release\Crm.Integration.XConsole.pdb
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Console\bin\Release\Crm.Integration.Common.dll
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Console\bin\Release\Crm.Integration.Installation.exe
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Console\bin\Release\Newtonsoft.Json.dll
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Console\bin\Release\Crm.Integration.Common.pdb
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Console\bin\Release\Crm.Integration.Installation.pdb
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Console\obj\Release\Crm.Integration.XConsole.csprojResolveAssemblyReference.cache
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Console\obj\Release\Crm.Integration.XConsole.exe
+C:\Users\devuser\Documents\visual studio 2015\Projects\3CX_Crm_Plugin\3CXCrmApi.Console\obj\Release\Crm.Integration.XConsole.pdb

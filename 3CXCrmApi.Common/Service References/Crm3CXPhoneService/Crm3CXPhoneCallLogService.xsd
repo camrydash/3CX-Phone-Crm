@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="InsertCallLog">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="callId" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="caller" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="destination" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="callType" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="callState" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="callLength" type="xs:int" />
+        <xs:element minOccurs="0" name="callDate" type="xs:dateTime" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="InsertCallLogResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="UpdateCallLog">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="callId" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="callState" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="callEndTime" type="xs:dateTime" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="UpdateCallLogResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

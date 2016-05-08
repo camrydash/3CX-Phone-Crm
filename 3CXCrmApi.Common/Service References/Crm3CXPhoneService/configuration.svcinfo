@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configurationSnapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="urn:schemas-microsoft-com:xml-wcfconfigurationsnapshot">
+  <behaviors />
+  <bindings>
+    <binding digest="System.ServiceModel.Configuration.BasicHttpBindingElement, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089:&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data name=&quot;BasicHttpBinding_ICrm3CXPhoneCallLogService&quot; /&gt;" bindingType="basicHttpBinding" name="BasicHttpBinding_ICrm3CXPhoneCallLogService" />
+  </bindings>
+  <endpoints>
+    <endpoint normalizedDigest="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data address=&quot;http://gnm-dev.ad.goodnightmedical.com:55000/Crm3CXPhoneCallLogService.svc&quot; binding=&quot;basicHttpBinding&quot; bindingConfiguration=&quot;BasicHttpBinding_ICrm3CXPhoneCallLogService&quot; contract=&quot;Crm3CXPhoneService.ICrm3CXPhoneCallLogService&quot; name=&quot;BasicHttpBinding_ICrm3CXPhoneCallLogService&quot; /&gt;" digest="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data address=&quot;http://gnm-dev.ad.goodnightmedical.com:55000/Crm3CXPhoneCallLogService.svc&quot; binding=&quot;basicHttpBinding&quot; bindingConfiguration=&quot;BasicHttpBinding_ICrm3CXPhoneCallLogService&quot; contract=&quot;Crm3CXPhoneService.ICrm3CXPhoneCallLogService&quot; name=&quot;BasicHttpBinding_ICrm3CXPhoneCallLogService&quot; /&gt;" contractName="Crm3CXPhoneService.ICrm3CXPhoneCallLogService" name="BasicHttpBinding_ICrm3CXPhoneCallLogService" />
+  </endpoints>
+</configurationSnapshot>
